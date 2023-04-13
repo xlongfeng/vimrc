@@ -103,3 +103,13 @@ set complete+=k
 
 " Specifiy strings to use in 'list' mode
 set listchars=tab:>.,eol:\$
+
+" Autocomplete parenthesis, brackets and braces in visual
+vnoremap ( s()<Esc>P<Right>%
+vnoremap [ s[]<Esc>P<Right>%
+vnoremap { s{}<Esc>P<Right>%
+
+" Autocomplete quotes in visual and select mode
+xnoremap ' s''<Esc>P<Right>
+xnoremap " s""<Esc>P<Right>
+xnoremap ` s``<Esc>P<Right>
