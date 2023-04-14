@@ -74,9 +74,6 @@ set smartcase
 " When a bracket is inserted, briefly jump to the matching one.
 set showmatch
 
-" Use highlighting when doing a search.
-set hlsearch
-
 " Set the commands to save in history default number is 20.
 set history=100
 
