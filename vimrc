@@ -22,6 +22,9 @@ set autoread
 " Write the contents of the file, if it has been modified, on each :next , ...
 set autowrite
 
+" Enables the reading of .vimrc, .exrc and .gvimrc in the current directory.
+set exrc
+
 " Use visual bell instead of beeping
 set visualbell
 
