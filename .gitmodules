@@ -1,3 +1,6 @@
 [submodule "pack/plugin/start/cscope_maps"]
 	path = pack/plugin/start/cscope_maps
 	url = git@github.com:xlongfeng/cscope_maps.git
+[submodule "pack/plugin/start/nerdcommenter"]
+	path = pack/plugin/start/nerdcommenter
+	url = git@github.com:preservim/nerdcommenter.git
