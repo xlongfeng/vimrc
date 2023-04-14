@@ -4,3 +4,6 @@
 [submodule "pack/plugin/start/nerdcommenter"]
 	path = pack/plugin/start/nerdcommenter
 	url = git@github.com:preservim/nerdcommenter.git
+[submodule "pack/plugin/start/nerdtree"]
+	path = pack/plugin/start/nerdtree
+	url = git@github.com:preservim/nerdtree.git
