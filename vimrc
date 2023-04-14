@@ -1,4 +1,5 @@
 " https://vimdoc.sourceforge.net/htmldoc/options.html
+" vim:shiftwidth=2:tabstop=2:expandtab
 
 " Disable compatibility with vi.
 set nocompatible
