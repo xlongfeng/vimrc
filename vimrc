@@ -71,9 +71,6 @@ set ignorecase
 " This will allow you to search specifically for capital letters.
 set smartcase
 
-" When a bracket is inserted, briefly jump to the matching one.
-set showmatch
-
 " Set the commands to save in history default number is 20.
 set history=100
 
