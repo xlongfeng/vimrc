@@ -40,9 +40,6 @@ set foldcolumn=2
 " Use markers to specify folds.
 set foldmethod=marker
 
-" Enable the mouse with Command-line mode
-set mouse=c
-
 " Set shift width to 4 spaces.
 set shiftwidth=4
 
