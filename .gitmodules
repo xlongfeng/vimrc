@@ -7,3 +7,6 @@
 [submodule "pack/plugin/start/ale"]
 	path = pack/plugin/start/ale
 	url = git@github.com:dense-analysis/ale.git
+[submodule "pack/plugin/start/vim-clang-format"]
+	path = pack/plugin/start/vim-clang-format
+	url = git@github.com:rhysd/vim-clang-format.git
