@@ -4,3 +4,6 @@
 [submodule "pack/plugin/start/nerdcommenter"]
 	path = pack/plugin/start/nerdcommenter
 	url = git@github.com:preservim/nerdcommenter.git
+[submodule "pack/plugin/start/ale"]
+	path = pack/plugin/start/ale
+	url = git@github.com:dense-analysis/ale.git
