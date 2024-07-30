@@ -15,3 +15,6 @@ let g:ale_lint_on_text_changed = 'never'
 
 " Disable virtual text appearing at ends of lines
 let g:ale_virtualtext_cursor = 'disabled'
+
+" Always show sign column
+let g:ale_sign_column_always = '1'
