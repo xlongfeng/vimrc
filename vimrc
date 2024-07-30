@@ -34,9 +34,6 @@ set ruler
 " Print the line number in front of each line.
 set number
 
-" keep 2 column for fold
-set foldcolumn=2
-
 " Use markers to specify folds.
 set foldmethod=marker
 
